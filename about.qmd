@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Robin Beaudet"
 about:
   id: bio
   template: jolla
