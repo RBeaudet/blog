@@ -1,5 +1,50 @@
 ---
 title: "About"
+about:
+  id: bio
+  template: jolla
+  image: images/profile.jpeg
+  image-shape: round
+  links:
+    - icon: github
+      text: github
+      href: https://github.com/RBeaudet
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/robin-beaudet-075950ba/
+    - icon: envelope
+      text: mail
+      href: mailto:robin@beaudet.io
+comments: false
+page-layout: full
 ---
 
-About this site
+::: {#bio}
+
+I am **Robin**, Machine Learning Engineer at Novaa Tech. I live and work remotely from Annecy, in the French Alps, spending most of my free time in the mountains or on my bike. Through this blog, I share insightful ideas and notes I’ve gathered along the way.
+
+:::
+
+## Education
+
+* **ENSAE Paris** | Paris, France<br>Engineering Degree in Statistics | Sept. 2016 - June 2018
+
+* **National University of Singapore** | Singapore<br>Dual Bachelor's Degree in Mathematics and Economics | Aug. 2014 - May 2015
+
+* **Université Pierre et Marie Curie (Paris VI)** | Paris, France<br>Bachelor's and Master's Degree in Mathematics | Sept. 2012 - May 2016
+
+* **Université Panthéon Assas (Paris II)** | Paris, France<br>Bachelor's Degree in Economics | Sept. 2012 - May 2015
+
+
+## Experience
+
+* **[Novaa Tech](https://www.novaa-tech.com/)** | Lyon, France<br>Senior Machine Learning Engineer | Sept. 2024 - present
+
+* **[Ornikar](https://www.ornikar.com/)** | Paris, France<br>Senior Machine Learning Engineer | Feb. 2022 - Aug. 2024
+
+* **[Zelros](https://www.zelros.com/?lang=fr)** | Paris, France<br>Machine Learning Engineer | June 2019 - Jan. 2022
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;"></div>
+```
